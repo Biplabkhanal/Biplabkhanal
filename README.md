@@ -17,7 +17,7 @@ I'm a passionate Backend Developer based in Kathmandu, Nepal. 🚀 I graduated w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplab-khanal-7999901a3)  
 [![Email](https://img.shields.io/badge/Email-khanalbiplab@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanalbiplab@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://www.instagram.com/leo_biplab10/?igsh=b205eXI2ZnVrYmw%3D])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/leo_biplab10/?igsh=b205eXI2ZnVrYmw%3D)
 
 
 ---
