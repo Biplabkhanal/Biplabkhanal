@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Biplab Khanal!
 
-I'm a passionate Backend Developer based in Kathmandu, Nepal. 🚀 I graduated with a Bachelor's degree in Computer Science and Information Technology (BSc CSIT) from National College of Computer Studies.
+I'm a passionate Software Developer based in Kathmandu, Nepal. 🚀 I graduated with a Bachelor's degree in Computer Science and Information Technology (BSc CSIT) from National College of Computer Studies.
 
 ---
 
