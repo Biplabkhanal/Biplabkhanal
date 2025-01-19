@@ -8,9 +8,9 @@
 - 🚀 **Check out my portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.biplabkhanal.com.np/)  
 
 📫 **Reach me on:**  
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplab-khanal-7999901a3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplab-khanal-7999901a3)  
 
-[![Email] (https://img.shields.io/badge/Email-khanalbiplab@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanalbiplab@gmail.com)
+[![Email](https://img.shields.io/badge/Email-khanalbiplab@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanalbiplab@gmail.com)
 
 ---
 
