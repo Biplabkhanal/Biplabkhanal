@@ -6,9 +6,10 @@
 
 ---
 
-- 🌱 **I’m currently learning:** React and Laravel  
+- 🌱 **I’m currently learning:** <span style="font-size: 12px; font-weight: bold;">React</span> and <span style="font-size: 12px; font-weight: bold;">Laravel</span>
 
-- 🚀 **Check out my portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.biplabkhanal.com.np/)  
+- 🚀 **Check out my portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.biplabkhanal.com.np/)
+ 
 
 📫 **Reach me on:** 
 
