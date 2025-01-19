@@ -35,4 +35,5 @@ I'm a passionate Software Developer based in Kathmandu, Nepal. 🚀 I graduated 
 ---
 
 ## 💡 Fun Fact:
-When I’m not coding, you’ll find me exploring new technologies, solving problems, or enjoying football. ⚽
+When I’m not coding, you’ll find me playing e-football, enjoying FIFA, or playing futsal. ⚽
+
