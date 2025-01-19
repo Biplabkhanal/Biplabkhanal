@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Biplab Khanal!
 
-<p align="center" style="font-size: 14px;">
+<p align="center" style="font-size: 16px;">
   I'm a passionate Backend Developer based in Kathmandu, Nepal. 🚀 I graduated with a Bachelor's degree in Computer Science and Information Technology (BSc CSIT) from National College of Computer Studies.
 </p>
 
 ---
 
-- 🌱 **I’m currently learning:** <span style="font-size: 12px; font-weight: bold;">React</span> and <span style="font-size: 12px; font-weight: bold;">Laravel</span>
+- 🌱 <span style="font-size: 11px;">I’m currently learning:</span> <span style="font-size: 11px; font-weight: bold;">React</span> and <span style="font-size: 11px; font-weight: bold;">Laravel</span>
 
 - 🚀 **Check out my portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.biplabkhanal.com.np/)
  
