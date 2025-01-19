@@ -4,7 +4,7 @@ I'm a passionate Backend Developer based in Kathmandu, Nepal. 🚀 I graduated w
 
 ---
 
- -🌱 **I’m currently learning:** **React** & **Laravel** 
+ 🌱 <span>I’m currently learning:</span> **React** & **Laravel** 
 
 
 ## 🚀 Check out my portfolio:
