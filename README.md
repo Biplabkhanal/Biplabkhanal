@@ -4,7 +4,7 @@ I'm a passionate Backend Developer based in Kathmandu, Nepal. 🚀 I graduated w
 
 ---
 
- 🌱 <span>I’m currently learning:</span> **React** & **Laravel** 
+🌱 <span style="font-size: 12px;">I’m currently learning:</span> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 
 ## 🚀 Check out my portfolio:
