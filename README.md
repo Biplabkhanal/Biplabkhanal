@@ -1,13 +1,17 @@
 ## Hi there 👋 I'm Biplab Khanal!
 
-## I'm a passionate Backend Developer based in Kathmandu, Nepal. 🚀 I graduated with a Bachelor's degree in Computer Science and Information Technology (BSc CSIT) from National College of Computer Studies. 
+<p align="center" style="font-size: 14px;">
+  I'm a passionate Backend Developer based in Kathmandu, Nepal. 🚀 I graduated with a Bachelor's degree in Computer Science and Information Technology (BSc CSIT) from National College of Computer Studies.
+</p>
+
 ---
 
 - 🌱 **I’m currently learning:** React and Laravel  
 
 - 🚀 **Check out my portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.biplabkhanal.com.np/)  
 
-📫 **Reach me on:**  
+📫 **Reach me on:** 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplab-khanal-7999901a3)  
 
 [![Email](https://img.shields.io/badge/Email-khanalbiplab@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanalbiplab@gmail.com)
@@ -27,3 +31,5 @@
 ---
 
 💡 **Fun Fact:** When I’m not coding, you’ll find me exploring new technologies, solving problems, or enjoying football. ⚽  
+
+
